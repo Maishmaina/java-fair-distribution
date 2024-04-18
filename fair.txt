@@ -1,0 +1,11 @@
+In the context of the code provided, "fair" distribution refers to an allocation of prizes that aims to balance the total value of prizes each winner receives as closely as possible.
+Here's how this fairness is implemented:
+
+Equal Total Value:
+The code calculates the total value of prizes each winner receives, ensuring that the difference in total values among winners is minimized.
+Balancing Distribution:
+Prizes are distributed in a way that attempts to balance the total value of prizes among winners. This is achieved by assigning each prize to the winner with the least total value of prizes received so far.
+Iterative Allocation:
+The algorithm iterates through the shuffled list of prizes, continuously assigning each prize to the winner with the least total value. This process repeats until all prizes are allocated.
+Dynamic Adjustment:
+The algorithm dynamically adjusts the distribution by considering the current total value of prizes each winner has received, ensuring that subsequent prizes are allocated to balance the overall distribution.
