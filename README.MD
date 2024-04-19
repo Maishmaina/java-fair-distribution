@@ -9,7 +9,7 @@ Follow these steps to get started with the project:
 - Step 2: Install dependencies
      FOR VSCODE TEST INSTALL THIS EXTENSTION https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 
-- Step 3: to test this project using JUNI VSCODE  instruction is provided in this link https://code.visualstudio.com/docs/java/java-testing
+- Step 3: to test this project using JUNIT VSCODE  instruction is provided in this link https://code.visualstudio.com/docs/java/java-testing
 
 
 # a brief description of definition of 'fair'
