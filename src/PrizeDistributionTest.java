@@ -5,6 +5,9 @@ import src.*;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import java.util.List;
+import java.util.Map;
+
 public class PrizeDistributionTest {
     private PrizeDistribution prizeDistribution;
 

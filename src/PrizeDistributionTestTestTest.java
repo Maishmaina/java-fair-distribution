@@ -12,4 +12,14 @@ public class PrizeDistributionTestTestTest {
     void testTestTestPrizeDistributionEqualTotalValues() {
 
     }
+
+    @Test
+    void testTestSetUp2() {
+        
+    }
+
+    @Test
+    void testTestTestPrizeDistributionEqualTotalValues2() {
+        
+    }
 }
